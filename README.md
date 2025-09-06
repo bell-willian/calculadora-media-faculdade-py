@@ -5,7 +5,7 @@ Este repositório contém um programa em Python desenvolvido como parte das ativ
 ## Descrição
 O programa tem como finalidade automatizar o calculo das medias dos alunos e retornar se o aluno foi aprovado ou reprovado.
 
-### Ele foi escrito utilizando os conceitos da linguagem C, como:
+### Ele foi escrito utilizando os conceitos da linguagem Python, como:
 - Declaração de variáveis
 - Operadores e expressões
 - Entrada e saída de dados
